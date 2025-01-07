@@ -9,6 +9,7 @@
   <a href="https://linkedin.com/in/KhaledElG3ndy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:khaled.elgendy.cs@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://codeforces.com/profile/KhaledElGendy"><img src="https://img.shields.io/badge/Codeforces-%23239120.svg?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"></a>
+  <a href="https://leetcode.com/u/KhaledElGendy/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 </p>
 
 ---
@@ -40,4 +41,4 @@
 
 ---
 
-Feel free to connect with me on LinkedIn or check out my projects and activities on Codeforces. I'm always open to collaborating and learning together!
+Feel free to connect with me on LinkedIn or check out my projects. I'm always open to collaborating and learning together!
